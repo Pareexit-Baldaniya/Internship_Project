@@ -5,15 +5,25 @@ This project explores and evaluates memory-efficient image loading, data augment
 The repository is organized into nine Jupyter notebooks, corresponding to the nine tasks of the project.
 
 |-- M1_01_Memory_vs_Generator_Loading.ipynb
+
 |-- M1_02_Keras_Data_Augmentation.ipynb
+
 |-- M1_03_PyTorch_Data_Augmentation.ipynb
+
 |-- M2_04_Keras_CNN_Classifier.ipynb
+
 |-- M2_05_PyTorch_CNN_Classifier.ipynb
+
 |-- M2_06_Keras_vs_PyTorch_Comparison.ipynb
+
 |-- M3_07_Keras_Vision_Transformer.ipynb
+
 |-- M3_08_PyTorch_Vision_Transformer.ipynb
+
 |-- M3_09_CNN_Transformer_Integration.ipynb
+
 |-- requirements.txt
+
 |-- README.md
 
 ## How to Use
