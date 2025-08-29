@@ -20,8 +20,6 @@ The repository is organized into nine Jupyter notebooks, corresponding to the ni
 
 |-- M3_08_PyTorch_Vision_Transformer.ipynb
 
-|-- M3_09_CNN_Transformer_Integration.ipynb
-
 |-- requirements.txt
 
 |-- README.md
